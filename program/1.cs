@@ -1,0 +1,1 @@
+Console.Write("o.k.");
