@@ -1,6 +1,6 @@
 # gitTest
 
-##fork ArtemIsmagilov
+## fork ArtemIsmagilov
 
 # Заголовок
 <h1>Использую HTML тег h1</h1>
